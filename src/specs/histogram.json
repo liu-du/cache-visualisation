@@ -6,7 +6,7 @@
   "padding": 5,
   "autosize": { "type": "fit", "resize": true },
   "title": {
-    "text": "IMDb Movie Ratings.",
+    "text": "Cache Visulaisation.",
     "subtitle": "Source: Vega Datasets.",
     "anchor": "start",
     "offset": 20,
